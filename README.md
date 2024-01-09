@@ -1,4 +1,4 @@
-# API Gateway con Ocelot
+# API Gateway
 Uno de los desafíos al trabajar con mico-servicios es como lograr una comunicación sin provocar un acoplamiento entre ellos. 
 
 Qué es una API Gateway?
